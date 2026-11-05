@@ -1,0 +1,3 @@
+[submodule "seculab"]
+	path = seculab
+	url = git@github.com:alecstanley-git/SecuLab.git

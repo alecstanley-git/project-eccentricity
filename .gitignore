@@ -1,0 +1,9 @@
+.DS_Store
+outputs/
+*.npy
+*.dat
+*.h5
+report/**/*.aux
+report/**/*.log
+report/**/*.synctex.gz
+references/*.pdf
